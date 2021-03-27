@@ -16,10 +16,10 @@ avatar: https://github.com/Huaichao2018/blog/tree/master/images/42494083.png
 #
 
 # Includes an icon in the footer for each username you enter
-  email: luo1987cc@163.com
-  facebook: https://www.facebook.com/vito.green.37/
+  email: #luo1987cc@163.com
+  facebook: luo huai qi
   flickr:
-  github: https://github.com/Huaichao2018
+  github: Huaichao2018
   instagram:
   linkedin:
   pinterest:
@@ -46,9 +46,8 @@ url:
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/blog"
-Researchgate: 'https://www.researchgate.net/profile/Huaichao_Luo?ev=hdr_xprf&_sg=BbPwX7HIuphEgOFRWPmHtS3K8DMwT_Ue2eoLh7MtW4Lzvl2bzop-_GX0wr5ffGlzuQgF4BNzLt1s_4_GhYb_52V3'
-Google scholar：'https://scholar.google.com/citations?user=XNKOGaIAAAAJ&hl=en'
-Pubmed：'https://pubmed.ncbi.nlm.nih.gov/?term=huaichao%20luo'
+Google scholar："https://scholar.google.com/citations?user=XNKOGaIAAAAJ&hl=en"
+Pubmed："https://pubmed.ncbi.nlm.nih.gov/?term=huaichao%20luo"
 #
 # !! You don't need to change any of the configuration flags below !!
 #
